@@ -134,6 +134,7 @@ p {
 .header-link::after {
     background-color: #404bbf;
     content: '';
+    max-width: 100%;
     position: absolute;
     left: 0;
     bottom: -1px;
